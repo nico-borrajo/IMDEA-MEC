@@ -1,0 +1,1 @@
+To run just get all the files in a folder and run the index.html in a browser with internet conection.
